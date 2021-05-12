@@ -7,7 +7,7 @@
 This project was done in **Summer Internship Program 2019** from **Smart Bridge and IBM.**
 
 The project is on **RETAIL BANKING ANALYSIS**. 
-In this prediction model, We have used decision tree and also we compared the `r2_score` of linear and decision tree.
+In this prediction model, We have used K — Nearest Neighbors with accuracy of `80%`.
 
 ---
 
