@@ -15,6 +15,6 @@ In this prediction model, We have used K — Nearest Neighbors with accuracy
 
 1. [J Sampath Kumar](https://www.linkedin.com/in/j-sampath-kumar-b45188175/)
 2. [Y Mayuri](https://www.linkedin.com/in/yeruva-mayuri-b98476188/)
-3. [M.BHARGAVI]()
+3. [M.BHARGAVI](https://www.linkedin.com/in/bhargavi-madarapu-75314620b)
 4. [N.L. GAYATRI](https://www.linkedin.com/in/gayatri-nyayapathi-290489188/)
 5. [N. KAVITHA](https://www.linkedin.com/in/neeli-kavitha-94b711178/)
